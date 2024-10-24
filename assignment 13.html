@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8">
+  <title>Assignment 13</title>
+  <link href="style.css" rel="stylesheet" type="text/css">
+</head>
+  <body>
+  <h1>Assignment 13</h1>    
+  <h2>Single-table SELECT statements</h2>
+  <p>Select all customers (Select *)</p>
+  <ul style="list-style-type: none;">
+      <li>Select * FROM Customers;</li>
+  </ul>
+
+  <br>
+
+  <h2>Single-table WHERE statements</h2>
+  <p>Select all customers from the UK (WHERE field = UK)</p>
+  <ul style="list-style-type: none;">
+    <li>SELECT * FROM Customers
+        WHERE Country='UK';</li>
+        </ul>
+
+  <br>
+  
+  <h2>Single-table COUNT statements</h2>
+  <p>Count the total number of customers (COUNT (*))</p>
+  <ul style="list-style-type: none;">
+    <li>SELECT COUNT(ProductID)
+        FROM Products;</li>
+  </ul>
+  
+  <br>      
+
+  <h2>Single-table INSERT INTO statements</h2>
+  <p>Insert a new record using the INSERT INTO (INSERT INTO (Name, address, city, postalcode, country)</p>
+  <ul style="list-style-type: none;">
+  <li>INSERT INTO Customers (CustomerName, ContactName, Address, City, PostalCode, Country)
+      VALUES ('Around the horn','Thomas Hardy','120 hanover Sq.','london','WA1 1DP','uk');</li>
+  </ul>
+
+  <br>
+
+  <h2>Single-table UPDATE statements</h2>
+    <p>Update Table with new Contact person and City</p>
+    <ul style="list-style-type: none;">
+    <li>UPDATE Customers
+        SET ContactName='Thomas Hardy', City='London'
+        WHERE CustomerID=4;</li>
+  </ul>
+
+  <br>
+  
+  <h2>Assignment Summary- Databases</h2>
+    <p style="font-size: 10pt; font-family: calibri, arial, courier; color: rgb(5, 5, 33); margin: 2pc; text-align: justify;">SQL stands for Structured Query Language in the context of databases, and it is a computer language for storing, modifying, and retrieving data from a relational database. The SQL language is the industry standard for relational database systems. SQL is the standard database language for all Relational Database Management Systems (RDMS) such as MySQL, MS Access, Oracle, Sybase, Informix, PostgreSQL, and SQL Server. CREATE, SELECT, INSERT, UPDATE, DELETE, and DROP are the typical SQL commands for working with relational databases. Based on their nature, these instructions can be divided into the following groups: This is similar to how Microsoft Excel works. This is beneficial to entrepreneurs. This may help them remember their order and avoid becoming confused. Structured Query Language stands for Structured Query Language. SQL is a language for querying and manipulating relational databases like SQL Server, Oracle, MySQL, PostgreSQL, SQLite, and others. SQL is an ISO (International Organization for Standardization) and ANSI (American National Standards Institute) standard language. However, not all databases support the same SQL, but the differences are minor. In addition, most databases have their own SQL extensions. SQL is used to. The Relational Database Management System is another name for it (RDBMS). We've been using SQL as a database management language since 1970, and it's not going away anytime soon. So, for any programmer, mastering SQL is always the best option. The front-end developer can also add SQL abilities to their résumé as an add-on. Even if an employer is unfamiliar with SQL, a worker can simply explain why knowing the language is important because it is used in almost all database management. As a result, workers can often boost their desirability to employers by developing SQL skills. The following are some of the most prevalent jobs that require SQL knowledge: backend programmer A person in this position is in charge of maintaining the code that ensures that web apps work properly. administrator of databases People in this job ensure that data is kept and managed properly. analyst of data This position's responsibilities include assessing data for pertinent patterns so that other departments can run more efficiently. Data Analyst Workers in this position must deal with enormous amounts of data.</p>
+
+  <br>
+
+  <p style="text-align:left; font-size: 18pt; font-style:normal; color: rgb(235, 75, 198);"><a href="index.html">back homepage</a></p>
+</body>
+</html>
