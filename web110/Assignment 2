@@ -1,0 +1,32 @@
+<!Doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UFT-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="veiwpart" content="width=device-width, intial-scale=1.0">
+        <title>Document</title>
+        <style>
+            body {
+                background-color: rgb(90, 238, 213);
+                text-align: center;
+            }
+
+            h1 {
+                color: rgb(143, 96, 230);
+                text-align: center;
+            }
+
+            p {
+                color: rgb(143, 96, 230);
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>assigment 2</h1>
+        <p>The assignment is basically about learning the web browser. By knowing more about the web browser, we gain more knowledge about software application information resources on the World Wide Web.  Also, it is important to know that some of the websites have cookies, which are a server that will know when you are going to visit again and when you have visited other websites. It will show pop-up ads for the website so you can buy more stuff from that website that has cookies. Also, it can overdrive your computer, making it slowdown, which is why you have to erase the history and cookies. What I used to do when my computer slowed down was clean the PC, which is basically easy to do. The web browser can do most things, like download, bookmark, buy things, etc., but some of the websites must be careful, because when you buy some things online, it could steal your credit card and your identity, so it is better to remember your password instead of saving it, like in Chrome software. The CPU could multitask any kind of work, like opening many web browsers, and applications, but you need a great CPU processor. What I have on my computer is a 12th generation Intel Core i7 desktop processor. There are various web browsers. Brave is the fastest browser, and you can also use it on a mobile app. The Brave browser has by far the fastest memory usage. This also protects you from ads, trackers, and other malicious content online. I have used Chrome mostly for over six years. I used Edge software, but I didn’t like it because it would slow down my computer when I had a lot of browsers open. Also, it couldn’t block most of the pop-up ads and viruses. That is why it slows down the browser and it could destroy your computer. Chrome is easy for me to use, and I can block pop-up ads and viruses. Also, it cannot be downloaded without my permission. For basic security and privacy, Firefox is about the same as Chrome. Firefox could block 2000 + trackers automatically, but this could pop-up investment ads, when you browse. Opera is the same as Chrome. It can be faster and open several tabs. Opera considerably uses less RAM than Chrome does. They upgraded Opera to have a built-in VPN, an ad-blocker, and a battery saver, which makes it well worth downloading this application. Also, I never saw a web browser have a video pop-out tool that lets you play videos. I think I will download Opera. This sounds more interesting than other web browsers.</p>
+        <p style="text-align:left; font-size: 18pt; font-style:normal; color: rgb(230, 75, 235);">
+            <a href="index.html">back homepage</a>
+        </p>
+    </body>
+</html>
