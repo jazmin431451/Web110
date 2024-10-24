@@ -1,0 +1,32 @@
+<!Doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UFT-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="veiwpart" content="width=device-width, intial-scale=1.0">
+        <title>Document</title>
+        <style>
+            body {
+                background-color: rgb(90, 238, 213);
+                text-align: center;
+            }
+
+            h1 {
+                color: rgb(143, 96, 230);
+                text-align: center;
+            }
+
+            p {
+                color: rgb(143, 96, 230);
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>assigment 1</h1>
+        <p>On Wikiversity website, you can learn more about computer science. To learn more about web design, you need to understand HTML and how to create a web page. I usually use notepad++ software, so I am somewhat familiar with HTML. I used this program to create web pages and to learn how to write code. A lot of the code I learned by myself by searching online, and my cousin helped me fix computers and code. The purpose of taking this course and other classes like CIS 106-W65 is to learn new things that I did not know about this semester and to gain career experience from them. The activities in number one (completing the following tutorials) are about understanding how and where the internet comes from. It is necessary for the computer to connect to a provider of internet service. On computers, televisions, and phones, there are five internet types: dial-up, DSL, cable, satellite, and Wi-fi. There are websites that offer free shows, and you don't need a cable to watch them. TVs are connected to the internet via cable, too. The satellite is like a cable, but it can connect to a TV or phone line, and its reception is weather-dependent. Wireless mobile phones connected to your ISP's network use 3G and 4G technology. Cloud storage is the same thing as storing documents, JPGs, or music on the internet. Also, emails could be saved, and important messages in a web-based service are stored on servers. Since you don't have to save it to your computer, it is better. Activities 2 (complete the following GCFLearnFree tutorials): The activities are about learning the application or an app. This is a type of software that allows you to perform specific tasks. There is an application on your desktop, like Microsoft Word, and there is more software on the computer. There are shortcuts on your keyboard to make it easy to use and faster than using a mouse. The simple shortcuts are CTRL + X (cut), CTRL + C (copy), CTRL + V (paste), CTRL + A (select all text), CTRL + Z (undo action), CTRL + F (find word), and CTRL + ALT + DEL (quit frozen app). These worktext keyboard shortcuts are useful when working with text in Microsoft Word, email, and social media applications.</p>
+        <p style="text-align:left; font-size: 18pt; font-style:normal; color: rgb(230, 75, 235);">
+            <a href="index.html">back homepage</a>
+        </p>
+    </body>
+</html>
